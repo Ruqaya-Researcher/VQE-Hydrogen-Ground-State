@@ -1,0 +1,7 @@
+qiskit>=2.1
+qiskit-nature
+qiskit-ibm-runtime
+numpy
+scipy
+matplotlib
+pyscf
