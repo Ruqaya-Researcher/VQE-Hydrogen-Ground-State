@@ -1,3 +1,7 @@
+# Install dependencies (Run once)
+
+!pip install qiskit qiskit-nature qiskit-ibm-runtime pyscf scipy matplotlib
+
 
 import numpy as np
 
